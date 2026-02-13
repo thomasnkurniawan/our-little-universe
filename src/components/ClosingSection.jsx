@@ -56,8 +56,8 @@ const ClosingSection = () => {
         >
           <div className="w-24 h-px bg-blue-300 mx-auto mb-4"></div>
           <p className="text-blue-200 text-sm italic">With all my love,</p>
-          <p className="text-xl font-serif">Your Name</p>
-          <p className="text-blue-300 text-sm mt-2">Valentine's Day 2025</p>
+          <p className="text-xl font-serif">Wawanz</p>
+          <p className="text-blue-300 text-sm mt-2">Valentine's Day 2026</p>
         </motion.div>
 
         {/* Bottom hearts decoration */}

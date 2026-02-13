@@ -2,8 +2,8 @@ import "./App.css";
 import ClosingSection from "./components/ClosingSection";
 import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
-import LoveNoteGenerator from "./components/LoveNoteGenerator";
 import MemoryGrid from "./components/MemoryGrid";
+import MessageWall from "./components/MessageWall";
 
 function App() {
   const handleEnter = () => {
@@ -21,9 +21,10 @@ function App() {
 
       {/* Content sections - always rendered but user scrolls to them */}
       <MemoryGrid />
-      <LoveNoteGenerator />
+      <MessageWall />
       <ClosingSection />
       <Footer />
+
     </div>
   );
 }

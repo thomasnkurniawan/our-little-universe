@@ -25,11 +25,11 @@ const Footer = () => {
 
         {/* Footer text */}
         <p className="text-blue-200 text-sm text-center">
-          Made with ❤️ for [Partner Name]
+          Made with ❤️ for Itung
         </p>
 
         <p className="text-blue-300 text-xs text-center mt-2 opacity-60">
-          Valentine's Day 2025
+          Valentine's Day 2026
         </p>
       </div>
     </footer>
