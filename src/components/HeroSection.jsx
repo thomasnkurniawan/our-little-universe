@@ -15,7 +15,7 @@ const HeroSection = ({ onEnter }) => {
       </motion.div>
       
       <motion.div
-        className="absolute bottom-32 right-32 text-sky-200"
+        className="absolute bottom-32 right-32"
         animate={{ y: [0, -15, 0] }}
         transition={{ duration: 4, repeat: Infinity, ease: "easeInOut", delay: 1 }}
       >
